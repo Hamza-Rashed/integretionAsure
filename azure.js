@@ -40,47 +40,4 @@ const uploadFiles = async (fileInput) => {
   }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// const config = {
-//   // api key / secret, or any needed data here
-// };
-
-// const uploadFile = async (src, dest) => {
-//   try {
-
-//     // output should be only the direct accessible url of the uploaded image (make images upload as public without encryption)
-//     // return IMAGE_FILE_URL;
-//   } catch (err) {
-//     throw err;
-//   }
-// }
-
-
-
-// export default uploadFile;
+export default uploadFiles;

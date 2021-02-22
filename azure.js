@@ -78,6 +78,7 @@ const uploadFile = async (src, dest) => {
   }
 }
 
+
 /**
  * Lists file in the share.
  * @ignore
